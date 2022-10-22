@@ -1,0 +1,10 @@
+body{
+    background-image: url(bg_dark.jpg);
+    background-size: cover;
+}
+.box{
+    background: rgb(0, 0, 0, 0.6);
+    width: 800px;
+    height: 300px;
+    border-radius: 10px;
+}
